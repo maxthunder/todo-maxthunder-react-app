@@ -4,7 +4,6 @@ import './App.css';
 
 function App() {
   return (
-      <!-- Always shows a header, even in smaller screens. -->
       <div className="mdl-layout mdl-js-layout mdl-layout--fixed-header" style="background: #000000;">
         {/*<header className="mdl-layout__header" style="background-color: #FFD034">*/}
         {/*  <div className="mdl-layout__header-row">*/}
