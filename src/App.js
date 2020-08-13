@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-      <div className="mdl-layout mdl-js-layout mdl-layout--fixed-header" style="background: #000000;">
+      <div className="mdl-layout mdl-js-layout mdl-layout--fixed-header" style={{background: 'black'}}>
         {/*<header className="mdl-layout__header" style="background-color: #FFD034">*/}
         {/*  <div className="mdl-layout__header-row">*/}
         {/*    <!-- Title -->*/}
